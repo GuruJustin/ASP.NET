@@ -1,0 +1,233 @@
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\appsettings.json
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.exe
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.deps.json
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.runtimeconfig.json
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.runtimeconfig.dev.json
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.pdb
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Namotion.Reflection.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NJsonSchema.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Annotations.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Core.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Generation.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Repository.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Repository.pdb
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.csprojAssemblyReference.cache
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.AssemblyInfoInputs.cache
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.AssemblyInfo.cs
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.csproj.CoreCompileInputs.cache
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.MvcApplicationPartsAssemblyInfo.cs
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.MvcApplicationPartsAssemblyInfo.cache
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.RazorTargetAssemblyInfo.cache
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.csproj.CopyComplete
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\staticwebassets\WesternSchedular.StaticWebAssets.Manifest.cache
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\staticwebassets\WesternSchedular.StaticWebAssets.xml
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.dll
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.pdb
+D:\app\WesterDB\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.genruntimeconfig.cache
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\appsettings.json
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.exe
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.deps.json
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.runtimeconfig.json
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.runtimeconfig.dev.json
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.pdb
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Namotion.Reflection.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NJsonSchema.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Annotations.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Core.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Generation.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Repository.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Repository.pdb
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.csprojAssemblyReference.cache
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.AssemblyInfoInputs.cache
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.AssemblyInfo.cs
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.csproj.CoreCompileInputs.cache
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.MvcApplicationPartsAssemblyInfo.cs
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.MvcApplicationPartsAssemblyInfo.cache
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.RazorTargetAssemblyInfo.cache
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.csproj.CopyComplete
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\staticwebassets\WesternSchedular.StaticWebAssets.Manifest.cache
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\staticwebassets\WesternSchedular.StaticWebAssets.xml
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.dll
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.pdb
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.genruntimeconfig.cache
+D:\app\WesterDB\WesternScheduler23-10\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\web.config
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.csprojAssemblyReference.cache
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.AssemblyInfoInputs.cache
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.AssemblyInfo.cs
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.csproj.CoreCompileInputs.cache
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\web.config
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.exe
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.deps.json
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.runtimeconfig.json
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.runtimeconfig.dev.json
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\WesternSchedular.pdb
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NJsonSchema.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Core.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Repository.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\bin\Release\netcoreapp3.1\Repository.pdb
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.RazorTargetAssemblyInfo.cache
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.csproj.CopyComplete
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\staticwebassets\WesternSchedular.StaticWebAssets.Manifest.cache
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\staticwebassets\WesternSchedular.StaticWebAssets.xml
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.dll
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.pdb
+C:\Users\tkajiyama\Documents\New folder\WesternSchedularDemo\WesternSchedular\WesternSchedular\obj\Release\netcoreapp3.1\WesternSchedular.genruntimeconfig.cache
